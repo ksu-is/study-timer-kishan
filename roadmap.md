@@ -11,6 +11,6 @@
 - [] Commit at least 6 code changes
 - [] Update tasks on the roadmap
 
-# Sprint 3
+# Sprint number 3
 - [] code more
 - [] make PowerPoint slide
